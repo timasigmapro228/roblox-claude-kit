@@ -18,7 +18,7 @@ A **Claude Code kit** — structured instructions, patterns, and ready-to-use Lu
 
 **This is not:**
 - A Roblox Studio plugin
-- A drop-in replacement for Roblox AI plugins — it's a different tool for a different workflow
+- A drop-in replacement for Roblox AI plugins - it's a different tool for a different workflow
 
 **This is:**
 - Architecture rules Claude follows automatically
