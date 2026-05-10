@@ -133,7 +133,7 @@ PRs welcome. To add a new system:
 
 ## Note on SKILL.md
 
-`SKILL.md` is the main instruction file for Claude Code — it tells Claude when and how to use the kit. This repository is a **Claude Code kit first**. It may be adapted as a Claude.ai Skill, but that packaging should be tested separately for your use case.
+`SKILL.md` is the main instruction file for Claude Code - it tells Claude when and how to use the kit. This repository is a **Claude Code kit first**. It may be adapted as a Claude.ai Skill, but that packaging should be tested separately for your use case.
 
 ## Known Limitations
 
