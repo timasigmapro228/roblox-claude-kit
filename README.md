@@ -57,7 +57,7 @@ Think of it as a senior Roblox developer's playbook that Claude reads before wri
 
 ```bash
 # Clone into your Roblox project folder
-git clone https://github.com/YOUR_USERNAME/roblox-claude-kit ./roblox-claude-kit
+git clone https://github.com/timasigmapro228/roblox-claude-kit ./roblox-claude-kit
 ```
 
 Add to your project's `CLAUDE.md`:
