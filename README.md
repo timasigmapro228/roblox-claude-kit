@@ -9,7 +9,7 @@ Production-oriented Roblox architecture patterns for Claude Code.
 
 ## What is this?
 
-A **Claude Code kit** — structured instructions, patterns, and ready-to-use Luau code that Claude reads as project context when building Roblox games. Instead of explaining Roblox architecture every time, Claude just knows it.
+A **Claude Code kit** - structured instructions, patterns, and ready-to-use Luau code that Claude reads as project context when building Roblox games. Instead of explaining Roblox architecture every time, Claude just knows it.
 
 **Best used with:**
 - Claude Code
